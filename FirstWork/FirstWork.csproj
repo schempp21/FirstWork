@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>1 quest</AssemblyName>
+    <RootNamespace>1 quest</RootNamespace>
+  </PropertyGroup>
+
+</Project>
