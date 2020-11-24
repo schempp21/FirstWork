@@ -1,12 +1,12 @@
 ﻿using System;
-
-namespace FirstWork
-{
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Введите свое имя: "); 
+
+            string name = Console.ReadLine();
+
+            Console.WriteLine($"Привет, {name}"); 
         }
     }
-}
